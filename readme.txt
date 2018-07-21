@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git is a strong distributed version control system.
 Creating a new branch is quick and simple.
 The seventh row.
+The eighth row.
